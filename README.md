@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a unique background i
 
 ---
 
- ### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
