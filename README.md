@@ -54,10 +54,10 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a unique background i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Ashor&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🛠️ Core Metrics & Technical Focus
+### 🛠️ Technical Focus & Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-Active-1f2428?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Primary_Language-Python_%26_SQL-1f2428?style=for-the-badge&logo=python&logoColor=3776AB" alt="Primary Language" />
-  <img src="https://img.shields.io/badge/Data_Stack-Power_BI_%7C_Excel_%7C_Tableau-1f2428?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Data Stack" />
+  <img src="https://img.shields.io/badge/Status-Active-1f2428?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-Python%20%7C%20SQL-1f2428?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Tools-Power%20BI%20%7C%20Excel-1f2428?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 </p>
