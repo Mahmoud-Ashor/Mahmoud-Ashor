@@ -56,8 +56,6 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a unique background i
 
 ### 🛠️ Technical Focus & Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-1f2428?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core-Python%20%7C%20SQL-1f2428?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Tools-Power%20BI%20%7C%20Excel-1f2428?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-</p>
+> **Status:** Active & Continuous Development  
+> **Core Stack:** Python | SQL (T-SQL)  
+> **Data Tools:** Power BI | Excel | Tableau
